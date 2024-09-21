@@ -1,4 +1,4 @@
-** Sentiment Analysis with Bert **
+# Sentiment Analysis with Bert 
 
 In this project, I explored the classical transformer, Bert Architecture and it's application. Built a Bert based calssfiier to predict the sentitment of movie reviews using a large dataset (Large Movie Review Dataset v1). Fine-tuned Bert using contrastive learning, extracted embeddings and visualized via TSNE. Built logisitic regression models to predict the sentiment labels using tsne componemnts. Moreover, further improved the model by adding classification layer to the model and output sentiment analysis result directly. 
 

@@ -2,6 +2,7 @@
 
 In this project, I explored the classical transformer, Bert Architecture and it's application. Built a Bert based calssfiier to predict the sentitment of movie reviews using a large dataset (Large Movie Review Dataset v1). Fine-tuned Bert using contrastive learning, extracted embeddings and visualized via TSNE. Built logisitic regression models to predict the sentiment labels using tsne componemnts. Moreover, further improved the model by adding classification layer to the model and output sentiment analysis result directly. 
 Model performance in the test set 
+
 ![image](https://github.com/user-attachments/assets/dbd313ec-9781-4cc0-a39c-dcc4c5a8ed44)
 
 
